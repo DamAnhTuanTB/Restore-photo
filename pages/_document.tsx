@@ -26,6 +26,7 @@ class MyDocument extends Document {
             property="og:image"
             content="https://restore-photos.vercel.app/og-image.png"
           />
+
           
           <meta
             name="twitter:image"
